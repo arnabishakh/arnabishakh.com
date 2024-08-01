@@ -196,9 +196,10 @@ section {
   margin-bottom: 1rem;
 }
 .section__text__p3 {
-    
+  
     text-align: justify;
 }
+
 
 
 .title {
@@ -321,20 +322,20 @@ section {
   margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* Skills SECTION */
 
-#experience {
+#Skills {
   position: relative;
 }
 
-.experience-sub-title {
+.Skills-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
 
-.experience-details-container {
+.Skills-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
