@@ -25,7 +25,7 @@ const Hero = () => {
                 </Button>
                 <Button variant="outline" className="border-portfolio-dark text-portfolio-dark hover:bg-portfolio-dark hover:text-white">
                   <FileDown className="mr-2" size={20} />
-                  <a href="public\CV.pdf">Download CV</a>
+                  <a href="CV.pdf">Download CV</a>
                 </Button>
               </div>
             </div>
