@@ -25,7 +25,7 @@ const Hero = () => {
                 </Button>
                 <Button variant="outline" className="border-portfolio-dark text-portfolio-dark hover:bg-portfolio-dark hover:text-white">
                   <FileDown className="mr-2" size={20} />
-                  <a href="public/arnabishakh cv.pdf">Download CV</a>
+                  <a href="arnabishakh cv.pdf">Download CV</a>
                 </Button>
               </div>
             </div>
@@ -33,7 +33,7 @@ const Hero = () => {
           <div className="w-full md:w-1/2 flex justify-center md:justify-end animation-delay-300 animate-fade-in">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-xl">
               <img 
-                src="public\bishakh.png"
+                src="bishakh.png"
                 alt="Arnab Bishakh Sarker" 
                 className="w-full h-full object-cover"
               />
