@@ -31,13 +31,13 @@ const Hero = () => {
             </div>
           </div>
           <div className="w-full md:w-1/2 flex justify-center md:justify-end animation-delay-300 animate-fade-in">
-            <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-xl">
-              <img 
-                src="bishakh.png"
-                alt="Arnab Bishakh Sarker" 
-                className="w-full h-full object-cover"
-              />
-            </div>
+          <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-xl md:mr-20">
+            <img 
+              src="bishakh.png"
+              alt="Arnab Bishakh Sarker" 
+              className="w-full h-full object-cover"
+            />
+          </div>
           </div>
         </div>
       </div>
