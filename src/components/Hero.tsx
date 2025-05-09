@@ -33,7 +33,7 @@ const Hero = () => {
           <div className="w-full md:w-1/2 flex justify-center md:justify-end animation-delay-300 animate-fade-in">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-xl">
               <img 
-                src="**\public\bishakh.png"
+                src="https://ibb.co.com/LD05fCVQ"
                 alt="Arnab Bishakh Sarker" 
                 className="w-full h-full object-cover"
               />
