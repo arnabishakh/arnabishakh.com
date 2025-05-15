@@ -25,8 +25,8 @@ const Hero = () => {
                 </Button>
                 <Button variant="outline" className="border-portfolio-dark text-portfolio-dark hover:bg-portfolio-dark hover:text-white">
                   <FileDown className="mr-2" size={20} />
-                  <a href="https://archive.org/embed/arnabishakhsarkercv">Download CV</a>
-                  
+                  <a href="src/components/cv.pdf">Download CV</a>
+                  <iframe src="https://archive.org/embed/arnabishakhsarkercv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
                 </Button>
               </div>
             </div>
