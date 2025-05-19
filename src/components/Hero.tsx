@@ -17,7 +17,7 @@ const Hero = () => {
                 <span className="text-black">Arnab</span> <span className="text-portfolio-purple">Bishakh</span> <span className="block text-portfolio-dark">Sarker</span>
               </h1>
               <p className="text-xl md:text-2xl text-portfolio-gray">
-                Full Stack Developer |.NET Framework |ReactJS NextJS| Machine Learning & Computer Vision Enthusiast
+                Full Stack Developer | .NET Framework | ReactJS NextJS | Machine Learning & Computer Vision Enthusiast
               </p>
               <div className="flex gap-4 mt-4">
                 <Button className="bg-portfolio-dark hover:bg-opacity-90 text-white">
